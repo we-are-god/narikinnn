@@ -1,37 +1,51 @@
-## Welcome to narikinpage
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/we-are-god/narikinnn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html lang="ja">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
+  <meta charset="utf-8">
+  <title>プレゼント応募専用ページ</title>
+  <link rel="icon" href="favicon.ico">
+  <meta name="description" content="プレゼントキャンペーン専用サイト">
+</head>
 
+<body>
+  <header>
+    <img src="img/3144361_m.jpg.webp" width="600" hight="600" alt="応募サイトの画像">
+    <h1>成金大学生です</h1>
+    <p>じゃんじゃん応募して下さい</p>
+    <lu>
+      
+        <a href="https://dotinstall.com" target="_blank">
+          <img src="img/o0600060013694655280.jpg.png" width="250" hight="250" alt="プレゼント応募サイトへのリンク画像です">
+        </a>
+      <a href="https://dotinstall.com" target="_blank">
+        <p>Facebook</p>
+      </a>
+    </lu>
 
+</header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!--　作品紹介　-->
+<section>
+  <h1>条件</h1>
+  <img src="img/work1.png" width="400" hight="260" alt="勇者 うん航大便器のうんこ紹介画像">
+  <h2>上のリンクをタップ</h2>
+  <p></p>
 
-```markdown
-Syntax highlighted code block
+  <img src="img/work2.png" width="400" hight="260" alt="勇者うん航大便器のうんこ探し紹介画像">
+  <h2>上のリンクをタップ</h2>
+  <p></p>
 
-# Header 1
-## Header 2
-### Header 3
+  <img src="img/work3.png" width="400" hight="260" alt="勇者うん航大便器の神経うんじゃく紹介画像">
+  <h2>うんこ漏らしたい方のみ参加可能</h2>
+  <p></p>
+</section>
 
-- Bulleted
-- List
+<foter>
+<p>(c) Unkoparty.com</p>
+</foter>
 
-1. Numbered
-2. List
+</body>
+</htnl>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/we-are-god/narikinnn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
